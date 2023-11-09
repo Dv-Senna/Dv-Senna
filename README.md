@@ -1,4 +1,4 @@
-### Hi there 👋
+<figure><embed src="https://wakatime.com/share/@018bb4e1-74f0-47fe-ac57-c0b10844ade0/06404dda-5797-4467-b004-5acf939e9b0e.svg"></embed></figure>
 
 <!--
 **Dv-Senna/Dv-Senna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
