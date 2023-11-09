@@ -1,4 +1,7 @@
-![Dv-Senna Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dv-Senna&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Dv-Senna%20Week%20Stats&layout=compact)
+
+![Coding hours](https://github-readme-stats.vercel.app/api/wakatime?username=Dv-Senna&api_domain=wakapi.dev&theme=gruvbox&custom_title=Coding%20Hours&layout=compact)<br />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dv-Senna&show_icons=true&theme=gruvbox&custom_title=GitHub%20stats)
+
 
 <!--
 **Dv-Senna/Dv-Senna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
